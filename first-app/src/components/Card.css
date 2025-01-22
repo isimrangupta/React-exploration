@@ -1,0 +1,12 @@
+.card{
+  border: 2px solid rgba(24, 42, 83, 0.275);
+  width: 20%;
+  background-color: rgb(30, 116, 165);
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  color: #fff;
+  font-size: 1.3rem;
+  padding-bottom: 10px;
+  overflow: hidden;
+}
