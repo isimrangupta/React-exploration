@@ -7,7 +7,7 @@ const ListItems = () => {
       <div>
        {IPL.map((ipl)=><h1>{ipl}</h1>)}
       </div>
-    </>
+   </> 
   )
 }
 
